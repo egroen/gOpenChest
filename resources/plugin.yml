@@ -1,0 +1,4 @@
+name: gOpenChest
+main: com.egroen.bukkit.gopenchest.GOpenChest
+version: 0.1
+description: Open chest module
